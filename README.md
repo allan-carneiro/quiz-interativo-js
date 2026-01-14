@@ -18,7 +18,8 @@ Você pode responder perguntas e ver seu desempenho no final!
 - JavaScript (ES6)
 - Git e GitHub Pages para deploy
 
-🌐 **Teste agora:** [Clique aqui para acessar o quiz](https://allan-carneiro.github.io/quiz-interativo-js/)
+🌐 [Teste agora](https://allan-carneiro.github.io/quiz-interativo-js/)
+
 
 ## Como usar
 
